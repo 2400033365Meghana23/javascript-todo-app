@@ -4,12 +4,6 @@
   <b>A colorful and interactive To-Do List application built using JavaScript</b>
 </p>
 
-<p align="center">
-  🎨 UI Animations &nbsp; | &nbsp; ⚡ JavaScript &nbsp; | &nbsp; 💾 localStorage
-</p>
-
----
-
 ## ✨ Project Overview
 This project is a **JavaScript-based To-Do List application** that allows users to add, complete, and delete tasks.  
 Tasks are saved using **localStorage**, so data is not lost on page refresh.
